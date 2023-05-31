@@ -9,7 +9,8 @@
 
 <br><br>
 
-[Ich-mag-dich.github.io](https://Ich-mag-dich.github.io/)
+### [Patel.im](https://pastel.im/)
+### [San02.duckdns.org](https://san02.duckdns.org/)
 
 </div>
 
