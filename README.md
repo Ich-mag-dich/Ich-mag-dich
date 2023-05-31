@@ -9,7 +9,7 @@
 
 <br><br>
 
-### [Patel.im](https://pastel.im/)
+### [Pastel.im](https://pastel.im/)
 ### [San02.duckdns.org](https://san02.duckdns.org/)
 
 </div>
