@@ -9,5 +9,4 @@
 
 <br><br>
 
-### [⭐Pastel.im](https://pastel.im/)
 </div>
