@@ -1,7 +1,7 @@
 #
 
 <div align="center">
-  <img src="https://github.com/Ich-mag-dich/Ich-mag-dich/blob/main/imd.png" />
+  <!-- <img src="https://github.com/Ich-mag-dich/Ich-mag-dich/blob/main/imd.png" /> -->
 
 <br><br>
 
